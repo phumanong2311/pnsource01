@@ -1,0 +1,23 @@
+{
+  "name": "pnsource01",
+  "version": "1.0.0",
+  "description": "pnsource01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phumanong2311/pnsource01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phumanong2311/pnsource01/issues"
+  },
+  "homepage": "https://github.com/phumanong2311/pnsource01#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
